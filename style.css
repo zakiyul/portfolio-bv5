@@ -1,6 +1,6 @@
 .jumbotron {
   background-color: #e2edff;
-  padding-top: 2rem;
+  padding-top: 6rem;
 }
 
 .text-justify {
@@ -9,4 +9,8 @@
 
 #project {
   background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
 }
